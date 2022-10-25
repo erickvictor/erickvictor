@@ -4,7 +4,7 @@
 
 <div><a href="https://github.com/erickvictor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickvictor&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickvictor&hide=stars&theme=tokyonight"/>
+  <img width="510px" height="180em" src="https://github-readme-stats.vercel.app/api?username=erickvictor&hide=stars&theme=tokyonight"/>
 </a></div>
 
 <!--
